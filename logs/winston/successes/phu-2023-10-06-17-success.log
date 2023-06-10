@@ -94,3 +94,15 @@
   label: 'University Management Success',
   timestamp: '2023-06-10T11:30:17.638Z'
 }
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  label: 'University Management Success',
+  timestamp: '2023-06-10T11:31:45.558Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'University Management Success',
+  timestamp: '2023-06-10T11:31:45.583Z'
+}
