@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\Next Level Web Development\\University Management Project\\University-Management-System\\logs\\winston\\successes\\.485305e083c76fe19d1a193456bead272e9a7768-audit.json",
+    "files": [
+        {
+            "date": 1686337336991,
+            "name": "E:\\Next Level Web Development\\University Management Project\\University-Management-System\\logs\\winston\\successes\\phu-2023-10-06-01-success.log",
+            "hash": "743d57a493999debe052fb3260acc821b8c1ea99759d23c24a27c755f46bff9b"
+        },
+        {
+            "date": 1686393034996,
+            "name": "E:\\Next Level Web Development\\University Management Project\\University-Management-System\\logs\\winston\\successes\\phu-2023-10-06-16-success.log",
+            "hash": "7dc0a83475479775772270956418d7d340f534887d94d2064dac1946e8958c5f"
+        },
+        {
+            "date": 1686395009879,
+            "name": "E:\\Next Level Web Development\\University Management Project\\University-Management-System\\logs\\winston\\successes\\phu-2023-10-06-17-success.log",
+            "hash": "203f23abb791f859125989e2fbc5888576eb86c7ed7a46faacbd892c260d7d8d"
+        }
+    ],
+    "hashType": "sha256"
+}
