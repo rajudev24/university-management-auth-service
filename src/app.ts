@@ -1,7 +1,7 @@
 import express, { Application } from 'express';
-import { UserRoutes } from './app/modules/user/user.route';
 import cors from 'cors';
 import globalErrorhandler from './app/middlewares/globalErrorHandler';
+import routes from './app/routes';
 const app: Application = express();
 
 app.use(cors());
@@ -10,8 +10,8 @@ app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-// Application Routes
-app.use('/api/v1/users/', UserRoutes);
+// Applicate routes
+app.use('/api/v1/', routes);
 
 // Global Error Handler
 app.use(globalErrorhandler);

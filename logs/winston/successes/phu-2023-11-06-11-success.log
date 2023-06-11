@@ -1,0 +1,60 @@
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  label: 'University Management Success',
+  timestamp: '2023-06-11T05:27:29.042Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'University Management Success',
+  timestamp: '2023-06-11T05:27:29.056Z'
+}
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  label: 'University Management Success',
+  timestamp: '2023-06-11T05:32:50.192Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'University Management Success',
+  timestamp: '2023-06-11T05:32:50.207Z'
+}
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  label: 'University Management Success',
+  timestamp: '2023-06-11T05:38:32.714Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'University Management Success',
+  timestamp: '2023-06-11T05:38:32.726Z'
+}
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  label: 'University Management Success',
+  timestamp: '2023-06-11T05:51:19.143Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'University Management Success',
+  timestamp: '2023-06-11T05:51:19.161Z'
+}
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  label: 'University Management Success',
+  timestamp: '2023-06-11T05:52:57.119Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'University Management Success',
+  timestamp: '2023-06-11T05:52:57.142Z'
+}
